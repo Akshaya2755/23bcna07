@@ -1,4 +1,4 @@
 # 23BCNA07
 07
 BCNA
-bcnaa
+bcna
